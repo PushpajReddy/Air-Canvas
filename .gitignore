@@ -1,0 +1,6 @@
+virtual_painter/
+recordings/
+__pycache__/
+extracted_text/
+saved_drawings/
+setup.txt
